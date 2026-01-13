@@ -16,10 +16,8 @@
 
 ### 📬 Contact Me
 <p align="left">
-<a href="https://www.linkedin.com/in/eliftelli" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="mailto:eliftelli.dev@gmail.com">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elif_Telli-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliftelli/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eliftelli.dev@gmail.com)
 </p>
 
 ---
