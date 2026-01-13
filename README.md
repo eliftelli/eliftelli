@@ -17,7 +17,9 @@
 ### 📬 Contact Me
 <p align="left">
 <a href="https://www.linkedin.com/in/eliftelli" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="mailto:eliftelli.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="mailto:eliftelli.dev@gmail.com">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="40"/>
+</a>
 </p>
 
 ---
