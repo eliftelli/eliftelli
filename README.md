@@ -26,7 +26,7 @@
 
 | 📱 Mobile & Frontend | 🏗️ BackEnd & Admin | ☁️ Cloud & DB | 🧠 AI & Tools |
 | :--- | :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" /> | <img src="https://skillicons.dev/icons?i=php,laravel,flask" /> | <img src="https://skillicons.dev/icons?i=mysql,firebase" /> <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" width="48" height="48" style="vertical-align:middle" /> | <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,github,figma" /> |
+| <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" /> | <img src="https://skillicons.dev/icons?i=php,laravel,flask" /> | <nobr><img src="https://skillicons.dev/icons?i=mysql,firebase" /> <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" width="48" height="48" style="vertical-align: top;" /></nobr> | <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,github,figma" /> |
 
 ---
 
